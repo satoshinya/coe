@@ -1,4 +1,4 @@
-# Co-Estimation of Data Types and Formats for Identifying Aimed Data
+# Co-Estimation of Data Types and Their Positional Distribution
 
 ## How to use
 
